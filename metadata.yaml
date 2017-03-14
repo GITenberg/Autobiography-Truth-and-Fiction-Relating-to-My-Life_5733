@@ -1,5 +1,5 @@
 _repo: Autobiography-Truth-and-Fiction-Relating-to-My-Life_5733
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Aus meinem Leben. English
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '4723'
     url: http://www.gutenberg.org/2009/agents/4723
     wikipedia: http://en.wikipedia.org/wiki/John_Oxenford
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Goethe, Johann Wolfgang von
@@ -26,6 +29,8 @@ description: In the work of Johann Wolfgang von Goethe (1749 - 1832) one can fin
   the two-part play Faust . Goethe was a privy-councilor to the Duchy of Weimar and
   his interest in foreign literature helped birth the concept of the world literature.
   George Eliot called Goethe "Germany's greatest man of letters & hellip;and ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5733#Autobiography-Truth-and-Fiction-Relating-to-My-Life
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
